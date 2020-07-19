@@ -1,0 +1,3 @@
+1|Daniel|501;Gloucester;Napier;4112;NZ|012345678|ddang@eit.ac.nz|logout|user1|1234|501;Gloucester;Napier;4112;NZ
+2|David|100;Auckland;Napier;4112;NZ|0987654321|dskelton@eit.ac.nz|logon|user2|4321|501;Gloucester;Napier;4112;NZ
+3|Ian|102;Bowling;Napier;4112;NZ|0987654321|ipurdan@eit.ac.nz|logon|user3|abcd|501;Gloucester;Napier;4112;NZ

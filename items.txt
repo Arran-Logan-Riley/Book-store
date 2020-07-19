@@ -1,0 +1,4 @@
+book|1|Core Java|Prentice Hall|2015|978-0-13-417730-4|59.99|3|Cay S. Horstmann|Tenth|I
+musicalbum|2|Love Story|Blackbird Studio|2015|789-0-12-316830-5|33.99|10|Adele|2
+software|3|Netbeans IDE|Apache|2018|234-4-13-760930-6|0.0|50|10.0
+book|4|PhP and MySQL for Dynamic Web Sites|Peachpit Press|2015|978-0-321-78407-0|44.99|10|Larry Ullman|Fourth|I
